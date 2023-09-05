@@ -18,7 +18,7 @@ const Skills = () => (
       </div>
       <div className="flex-none lg:flex-1 pl-0 lg:pl-8">
         <h2 className="mb-8 text-3xl font-bold text-brand-primary dark:text-white typography">
-          Interested in more about me?
+          Interested in learning more about me?
         </h2>
         <p className="mb-[2.5rem] font-normal text-xl md:text-[26px] text-brand-secondary dark:text-slate-200 leading-[34px] typography">
           I'm excited to welcome you to my digital corner! I'm currently
