@@ -1,5 +1,11 @@
 [
   {
+    "id": 0,
+    "name": "Telegram",
+    "link": "https://t.me/smakosh",
+    "icon": "/assets/social/telegram.svg"
+  },
+  {
     "id": 1,
     "name": "Github",
     "link": "https://github.com/Tatli/",
