@@ -11,9 +11,7 @@
   },
   "dependencies": {
     "@formspree/react": "^2.5.0",
-    "@netlify/plugin-nextjs": "4.36.1",
     "clsx": "^2.0.0",
-    "follow-redirects": "^1.15.2",
     "formik": "^2.4.2",
     "next": "^13.4.12",
     "next-themes": "^0.2.1",
@@ -29,6 +27,7 @@
     "@octokit/graphql-schema": "14.27.2",
     "@playwright/test": "^1.37.0",
     "@types/eslint": "8.44.2",
+    "@types/follow-redirects": "^1.14.1",
     "@types/node": "20.5.7",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
